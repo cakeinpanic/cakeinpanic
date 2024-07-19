@@ -1,4 +1,4 @@
-Hi, my name is Katya Pavlenko, I am a frontend developer currently based in Tel-Aviv, Israel, originally from Saint-Ptersburg, Russia.
+Hi, my name is Katya Pavlenko, I am a frontend developer currently based in Tel-Aviv, Israel
 
 buzzwords: javascript, angular, testing, CI, hackathons, bots, instant noodles
 
