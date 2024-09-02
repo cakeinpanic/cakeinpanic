@@ -8,4 +8,4 @@ I have a [blog on medium](https://medium.com/@cakeinpanic) where I am explaining
 
 Quote in my profile is form Daft Punk "Technologic" song which I love best in Pentatonix acapella cover, [check it out](https://www.youtube.com/watch?v=3MteSlpxCpo).
 
-[<img width="300" alt="Screen Shot 2022-03-28 at 11 38 58" src="https://user-images.githubusercontent.com/588916/160359988-d0cbf37c-a18a-4f76-85c4-15870884141c.png">](https://www.youtube.com/watch?v=3MteSlpxCpo)
+[![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=cakeinpanic)](https://github.com/LordDashMe/github-contribution-stats/)
